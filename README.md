@@ -196,7 +196,7 @@ mlpstorage closed training unet3d datagen file \
 
 #### uv (Required)
 
-[`uv`](https://docs.astral.sh/uv/) is a fast Python package and project manager that handles virtual environment creation, dependency resolution, and Python version management automatically — no manual `venv` or `pip` steps required. It will install into your virutal environment exactly the versions of supporting libraries and tools that the benchmark has been tested with.
+[`uv`](https://docs.astral.sh/uv/) is a fast Python package and project manager that handles virtual environment creation, dependency resolution, and Python version management automatically — no manual `venv` or `pip` steps required. It will install into your virtual environment exactly the versions of supporting libraries and tools that the benchmark has been tested with.
 
 **Install uv** (if not already installed):
 
